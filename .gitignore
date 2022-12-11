@@ -1,0 +1,6 @@
+# Unity
+*.pdb
+*.bin
+slots1/Temp/
+slots1/Library/
+slots1/Logs/
